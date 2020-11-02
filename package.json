@@ -8,14 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahkhinmat/tools.git"
+    "url": "git+https://github.com/ahkhinmat/tool.git"
   },
   "keywords": [
     "tools",
     "kha"
   ],
   "dependencies": {
-    "bootstrap": "4.5.3"
+    "bootstrap": "4.5.3",
+    "jquery": "3.5.1"
   },
   "author": "khatm",
   "license": "ISC",
