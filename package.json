@@ -1,0 +1,23 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "description": "công cụ tiện ích",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahkhinmat/tools.git"
+  },
+  "keywords": [
+    "tools",
+    "kha"
+  ],
+  "author": "khatm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahkhinmat/tools/issues"
+  },
+  "homepage": "https://github.com/ahkhinmat/tools#readme"
+}
